@@ -1,6 +1,9 @@
+html {
+  scroll-behavior: smooth;
+}
 
 header{
-  background-image: url(img/valparaiso-2.jpg);
+  background-image: url("../img/valparaiso-2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: absolute;
